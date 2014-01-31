@@ -1,0 +1,1 @@
+- This is the code from the tutorial that I'm currently following at : http://javascriptissexy.com/how-to-learn-javascript-properly/. Go check it out. 
